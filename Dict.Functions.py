@@ -31,7 +31,7 @@ del Dict['Year']
 print("Dictionaryafter use Del function :",Dict)
 
 
-print("---------------------------Del() Function-----------------------------------")
+print("---------------------------clear() Function-----------------------------------")
 Dict = {'Brand':'Maruti','Model':'Dzire','Year':2020 }
 print(Dict)
 Dict.clear()
